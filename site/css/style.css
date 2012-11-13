@@ -125,6 +125,20 @@ a[href^="tel:"]{color:#939393; text-decoration:none;}
 		padding-bottom:10px;
 	}
 		.list-1 dd.last-item{border-bottom:none; padding-bottom:0;}
+
+.directory {
+	width: 100%;
+}
+.directory-section {
+	font:bold 18px/22px Arial, Helvetica, sans-serif;
+	color:#1223E0;
+	border-bottom:1px solid #000;
+}
+
+.directory tr{
+	color:#EC0A0A;
+}
+
 /*---------- Indents ---------*/
 p, .p3-1{margin-bottom:18px}
 	.p0{margin-bottom:0;}		.p0-1{margin-bottom:3px;}
